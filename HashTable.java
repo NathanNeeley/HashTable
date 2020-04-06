@@ -1,13 +1,6 @@
-// Name:       Nathan Neeley
-// Class:      CS 5040
-// Term:       Spring 2020
-// Instructor: Dr. Haddad
-// Assignment: 6
-// IDE:        jGrasp
-
 import java.util.Scanner;
 
-public class HashTable_Nathan_Neeley
+public class HashTable
 {
    public static void main (String[] args)
    {
